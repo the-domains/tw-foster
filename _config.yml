@@ -1,0 +1,28 @@
+name: TW Foster
+favicon: null
+layout_spectrum: 0.9641514141112566
+typography_spectrum: 0.9143335791304708
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.6728969593532383
+  lightness: 0.8291922796051949
+  saturation: 0.7545927027240396
+  rhythmicContrast: 0.6283486420288682
+purpose: []
